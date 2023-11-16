@@ -1,0 +1,18 @@
+.divdomenu{
+	background-color:pink;
+	width:700px
+}
+.body{background-image:
+ url('fundo.png');
+  }
+  .divconteudo{
+	background-color:white ;
+	width:700px
+}
+.configuiimage{
+	border-style: solid;
+	border-width: 10px;
+	border-color: pink;
+	width:680px;
+
+}
